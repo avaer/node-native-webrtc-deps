@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/modulesio/node-native-rtc-deps#readme",
   "dependencies": {
+    "rimraf": "^2.6.3",
     "unzipper": "^0.9.11"
   }
 }
